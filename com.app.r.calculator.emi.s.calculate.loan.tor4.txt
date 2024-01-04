@@ -48,5 +48,5 @@
   "toBeClicked":1,
   "totalIntro":5,
   "updateUrl":"https://www.google.com/",
-"isIntro":true
+  "isIntro":true,
 }
