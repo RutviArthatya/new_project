@@ -40,7 +40,7 @@
   "isComingSoon":false,
   "isFacebookFailShowGoogle":true,
   "isFacebookGoogleBoth":false,
-  "isGoogleFailShowFacebook":true,
+  "isGoogleFailShowFacebook":false,
   "isNativeFacebookGoogleBoth":false,
   "isUpdateApp":false,
   "isIntro":true,
