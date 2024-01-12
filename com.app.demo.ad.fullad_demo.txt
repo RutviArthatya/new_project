@@ -6,5 +6,7 @@
   "googleAppOpenAd":"ca-app-pub-3940256099942544/5575463023",
   "googleNativeId1":"ca-app-pub-3940256099942544/2247696110",
   "googleBannerId1":"ca-app-pub-3940256099942544/6300978111",
-  "googleInterstitial1":"ca-app-pub-3940256099942544/1033173712"
+  "googleInterstitial1":"ca-app-pub-3940256099942544/1033173712",
+  "faceBookInterstitial1":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "faceBookRewarde1":"VID_HD_9_16_39S_APP_INSTALL#YOUR_PLACEMENT_ID",
 }
