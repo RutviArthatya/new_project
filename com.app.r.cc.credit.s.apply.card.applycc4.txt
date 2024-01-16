@@ -18,7 +18,7 @@
   "facebookNativeId4":"357469040353764_357487127018622",
   "facebookNativeId5":"357469040353764_357487183685283",
   "facebookNativeVisible":true,
-  "googleAppOpenAd":"/21753324030,23018923517/com.app.r.cc.credit.s.apply.card.applycc4_AppOpen",
+  "googleAppOpenAd":"ca-app-pub-3940256099942544/9257395921",
   "googleBannerId1":"/21753324030,23018923517/com.app.r.cc.credit.s.apply.card.applycc4_Banner",
   "googleBannerId2":"/21753324030,23018923517/com.app.r.cc.credit.s.apply.card.applycc4_Banner",
   "googleBannerId3":"/21753324030,23018923517/com.app.r.cc.credit.s.apply.card.applycc4_Banner",
