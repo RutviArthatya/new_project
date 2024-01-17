@@ -1,5 +1,5 @@
 {
-  "appOpenVisible":true,
+  "appOpenVisible":false,
   "isInterLoad.value":true,
   "isNativeAdLoaded.value":true,
   "isBannerAdLoaded.value":true,
