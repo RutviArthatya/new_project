@@ -49,5 +49,5 @@
   "toBeClicked":1,
   "totalIntro":5,
   "updateUrl":"https://www.google.com/",
-  "isOpenWebView":true
+  "isOpenWebView":false
 }
