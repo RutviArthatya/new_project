@@ -18,7 +18,7 @@
   "facebookNativeId4":"281046394982286_281052351648357",
   "facebookNativeId5":"281046394982286_281052421648350",
   "facebookNativeVisible":true,
-  "googleAppOpenAd":"12/229445249,23057746767/highR_RS88_Applycreditcardvirtualcard_277_APP_OPEN_5241_170124",
+  "googleAppOpenAd":"ca-app-pub-3940256099942544/9257395921",
   "googleBannerId1":"/229445249,23057746767/highR_RS88_Applycreditcardvirtualcard_277_BANNER_5244_170124",
   "googleBannerId2":"/229445249,23057746767/highR_RS88_Applycreditcardvirtualcard_277_BANNER_5244_170124",
   "googleBannerId3":"/229445249,23057746767/highR_RS88_Applycreditcardvirtualcard_277_BANNER_5244_170124",
