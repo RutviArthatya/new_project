@@ -51,5 +51,5 @@
   "updateUrl":"https://www.google.com/",
   "isOpenWebView":true,
   "isAllScreenAppOpenOn":true,
-  "webViewUrl":"https://www.sc.com/in/credit-cards/"
+  "webViewUrl":"https://www.hdfcbank.com/personal/pay/cards/credit-cards"
 }
