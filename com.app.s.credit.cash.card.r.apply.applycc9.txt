@@ -49,7 +49,7 @@
   "toBeClicked":1,
   "totalIntro":5,
   "updateUrl":"https://www.google.com/",
-  "isOpenWebView":false,
+  "isOpenWebView":true,
   "isAllScreenAppOpenOn":true,
   "webViewUrl":"https://en.wikipedia.org/wiki/Credit_card"
 }
