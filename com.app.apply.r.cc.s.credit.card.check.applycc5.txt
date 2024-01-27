@@ -44,7 +44,7 @@
   "isNativeFacebookGoogleBoth":false,
   "isUpdateApp":false,
   "isIntro":true,
-  "priority":"facebook",
+  "priority":"facebook123",
   "showAd":true,
   "toBeClicked":1,
   "totalIntro":5,
