@@ -34,7 +34,7 @@
   "googleNativeId3":"/21857590943,22958333258/apoorva_gupta_com.app.cc.r.apply.credit.s.check.card.applycc3/native",
   "googleNativeId4":"/21857590943,22958333258/apoorva_gupta_com.app.cc.r.apply.credit.s.check.card.applycc3/native",
   "googleNativeId5":"/21857590943,22958333258/apoorva_gupta_com.app.cc.r.apply.credit.s.check.card.applycc3/native",
-  "isBackAdd":false,
+  "isBackAdd":true,
   "isBackFacebookGoogleBoth":false,
   "isBannerGoogleFacebookBoth":false,
   "isComingSoon":false,
